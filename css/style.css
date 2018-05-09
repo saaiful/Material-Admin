@@ -17008,7 +17008,7 @@ footer {
       padding: 25px 0 200px 0;
       position: relative;
       overflow: hidden;
-      max-height: 500px; }
+      max-height: 100vh; }
   .mdc-persistent-drawer__drawer {
     border-right: 0; }
   .mdc-persistent-drawer__toolbar-spacer {
